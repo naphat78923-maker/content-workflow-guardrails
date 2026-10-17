@@ -1,0 +1,40 @@
+[
+  {
+    "id": "demo-a",
+    "recommendation_state": "cooldown",
+    "content_status": "awaiting-copy-approval",
+    "copy_approval": "not-approved",
+    "publication_status": "unknown",
+    "last_presented_at": "2026-10-02",
+    "unchanged_pitch_count": 2,
+    "awaiting_user_decision": true,
+    "pause_after": "2026-10-09",
+    "control_reason": "shared delivery cap reached or existing cooldown retained"
+  },
+  {
+    "id": "demo-b",
+    "recommendation_state": "paused",
+    "content_status": "awaiting-copy-approval",
+    "copy_approval": "not-approved",
+    "publication_status": "unknown",
+    "last_presented_at": "2026-09-25",
+    "unchanged_pitch_count": 1,
+    "awaiting_user_decision": true,
+    "pause_after": "2026-10-02",
+    "paused_at": "2026-10-03",
+    "pause_reason": "no item-specific reply in seven calendar days",
+    "control_reason": "no item-specific reply in seven calendar days"
+  },
+  {
+    "id": "demo-c",
+    "recommendation_state": "closed",
+    "content_status": "ready-to-post",
+    "copy_approval": "approved",
+    "publication_status": "platform-verified",
+    "last_presented_at": "2026-10-02",
+    "unchanged_pitch_count": 1,
+    "awaiting_user_decision": false,
+    "pause_after": "2026-10-09",
+    "control_reason": "publication already reported/verified; no posting nudge"
+  }
+]

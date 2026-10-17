@@ -1,0 +1,23 @@
+[
+  {
+    "event_id": "demo-01",
+    "platform": "X",
+    "account": "demo",
+    "published_at": "2026-10-05T09:00:00+07:00",
+    "publication_status": "platform-verified"
+  },
+  {
+    "event_id": "demo-02",
+    "platform": "Instagram",
+    "account": "demo",
+    "published_at": "2026-10-05T12:00:00+07:00",
+    "publication_status": "platform-verified"
+  },
+  {
+    "event_id": "demo-03",
+    "platform": "Instagram",
+    "account": "demo",
+    "published_at": null,
+    "publication_status": "reported-posted/unverified"
+  }
+]

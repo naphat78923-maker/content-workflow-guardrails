@@ -1,0 +1,17 @@
+{
+  "verified_at": "2026-10-18T06:19:36.264617+07:00",
+  "test_command": "python3 -m unittest discover -s tests -v",
+  "tests_passed": 17,
+  "demo_data": "synthetic fixtures only; not live posts or customer records",
+  "evaluate_demo_recommendations": [
+    "cooldown",
+    "paused",
+    "closed"
+  ],
+  "weekly_demo_unique_dated_days": 1,
+  "weekly_demo_unknown_date_reports_unassigned_to_week": 1,
+  "approval_and_publication_fields_preserved": true,
+  "remote_repository_created": false,
+  "github_ci_executed": false,
+  "limits": "Local behaviour checks only; no proof of marketing outcomes or another agent following the policy."
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "demo-a",
+    "recommendation_state": "active",
+    "content_status": "awaiting-copy-approval",
+    "copy_approval": "not-approved",
+    "publication_status": "unknown",
+    "last_presented_at": "2026-10-02",
+    "unchanged_pitch_count": 2,
+    "awaiting_user_decision": true
+  },
+  {
+    "id": "demo-b",
+    "recommendation_state": "active",
+    "content_status": "awaiting-copy-approval",
+    "copy_approval": "not-approved",
+    "publication_status": "unknown",
+    "last_presented_at": "2026-09-25",
+    "unchanged_pitch_count": 1,
+    "awaiting_user_decision": true
+  },
+  {
+    "id": "demo-c",
+    "recommendation_state": "active",
+    "content_status": "ready-to-post",
+    "copy_approval": "approved",
+    "publication_status": "platform-verified",
+    "last_presented_at": "2026-10-02",
+    "unchanged_pitch_count": 1,
+    "awaiting_user_decision": false
+  }
+]

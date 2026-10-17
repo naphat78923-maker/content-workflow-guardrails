@@ -1,0 +1,32 @@
+{
+  "start": "2026-10-05",
+  "end": "2026-10-11",
+  "timezone": "Asia/Bangkok",
+  "by_platform_account": {
+    "Instagram|demo": {
+      "verified_days": [
+        "2026-10-05"
+      ],
+      "additional_reported_only_days": [],
+      "unique_dated_days": 1,
+      "unknown_date_reports_unassigned_to_week": 1
+    },
+    "X|demo": {
+      "verified_days": [
+        "2026-10-05"
+      ],
+      "additional_reported_only_days": [],
+      "unique_dated_days": 1,
+      "unknown_date_reports_unassigned_to_week": 0
+    }
+  },
+  "all_channels_union": {
+    "verified_days": [
+      "2026-10-05"
+    ],
+    "additional_reported_only_days": [],
+    "unique_dated_days": 1,
+    "unknown_date_reports_unassigned_to_week": 1
+  },
+  "coverage": "not inferred from events; supply actual check timestamps separately"
+}
